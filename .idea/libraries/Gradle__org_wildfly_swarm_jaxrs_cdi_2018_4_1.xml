@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wildfly.swarm:jaxrs-cdi:2018.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.swarm/jaxrs-cdi/2018.4.1/dc217ab2bfd0d2429d099fe552084650e0319fe1/jaxrs-cdi-2018.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.swarm/jaxrs-cdi/2018.4.1/a318de79f0d45a14759b64a14db12d785c817a4d/jaxrs-cdi-2018.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-impl-jboss:2.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-impl-jboss/2.0.0/shrinkwrap-descriptors-impl-jboss-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

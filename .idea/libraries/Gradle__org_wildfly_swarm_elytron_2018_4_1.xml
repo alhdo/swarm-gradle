@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wildfly.swarm:elytron:2018.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.swarm/elytron/2018.4.1/54a85250b6546708b0af2f760dcdc7c02cb97a9/elytron-2018.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.swarm/elytron/2018.4.1/561e2f16fc41bb160a57fd9024797f68fd0735e6/elytron-2018.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

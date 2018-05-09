@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wildfly.swarm:msc:2018.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/swarm/msc/2018.5.0-SNAPSHOT/msc-2018.5.0-20180420.105350-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/swarm/msc/2018.5.0-SNAPSHOT/msc-2018.5.0-20180420.105350-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/swarm/msc/2018.5.0-SNAPSHOT/msc-2018.5.0-20180420.105350-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

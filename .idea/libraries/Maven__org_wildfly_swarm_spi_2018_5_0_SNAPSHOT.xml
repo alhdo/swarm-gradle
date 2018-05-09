@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wildfly.swarm:spi:2018.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/swarm/spi/2018.5.0-SNAPSHOT/spi-2018.5.0-20180420.105021-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/swarm/spi/2018.5.0-SNAPSHOT/spi-2018.5.0-20180420.105021-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/swarm/spi/2018.5.0-SNAPSHOT/spi-2018.5.0-20180420.105021-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

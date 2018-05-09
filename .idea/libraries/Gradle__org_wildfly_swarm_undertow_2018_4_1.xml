@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wildfly.swarm:undertow:2018.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.swarm/undertow/2018.4.1/df931cb3879278a0d392930578df2c89d7393abc/undertow-2018.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.swarm/undertow/2018.4.1/78501ff3bbea1203cf242dcadeddc75952da7ff/undertow-2018.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

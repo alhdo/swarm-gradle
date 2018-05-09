@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.spec.javax.el:jboss-el-api_3.0_spec:1.0.9.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.el/jboss-el-api_3.0_spec/1.0.9.Final/ebdcd07f358ffcc3b2ef1f654309121f9832e989/jboss-el-api_3.0_spec-1.0.9.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.el/jboss-el-api_3.0_spec/1.0.9.Final/731b5a0dc9dd49aaf9cc29cefe28dd92c3259495/jboss-el-api_3.0_spec-1.0.9.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

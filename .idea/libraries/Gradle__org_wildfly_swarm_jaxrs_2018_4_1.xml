@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wildfly.swarm:jaxrs:2018.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.swarm/jaxrs/2018.4.1/45c9ea3a7d71c73aed8ff46c5189ad453009eba5/jaxrs-2018.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.swarm/jaxrs/2018.4.1/ef027ebcd2b4506778ff87b1f81a35fee4f6679b/jaxrs-2018.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

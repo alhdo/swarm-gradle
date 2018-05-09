@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wildfly.swarm:fraction-metadata:2018.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/swarm/fraction-metadata/2018.5.0-SNAPSHOT/fraction-metadata-2018.5.0-20180420.105143-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/swarm/fraction-metadata/2018.5.0-SNAPSHOT/fraction-metadata-2018.5.0-20180420.105143-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/swarm/fraction-metadata/2018.5.0-SNAPSHOT/fraction-metadata-2018.5.0-20180420.105143-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
